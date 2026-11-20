@@ -2,7 +2,7 @@
 
 > **Znění k 1. říjnu 2024** (dokument e-Sbírky `SB-2017-00191_2024-10-01`). Komentář je zpracován **výhradně z lokálních materiálů**; nevyužívá živé komerční právní databáze. Místní zdroj neuvádí konec účinnosti tohoto znění, jde tedy podle místních podkladů o aktuální konsolidaci; pozdější změny, které místní podklady nezachycují, komentář netvrdí.
 >
-> **Metodická poznámka:** Čísla ustanovení insolvenčního zákona č. 182/2006 Sb. (dále „**IZ**") jsou ověřena v jeho místním znění účinném od 1. 1. 2026. Repozitář neobsahuje místní judikaturu k vyhlášce a komentář žádné spisové značky soudních rozhodnutí neuvádí; výklad vychází z textu vyhlášky, z prováděných ustanovení IZ, z navazujících podzákonných předpisů (zejména jednacího řádu pro insolvenční řízení a standardů výkonu funkce insolvenčního správce) a z obecných výkladových zásad. Tam, kde text nedává jednoznačnou odpověď, komentář to výslovně označuje jako **výkladovou otázku**.
+> **Metodická poznámka:** Čísla ustanovení insolvenčního zákona č. 182/2006 Sb. (dále „**IZ**") jsou ověřena v jeho místním znění účinném od 1. 1. 2026. Repozitář obsahuje dvě místní karty rozhodnutí Nejvyššího soudu (složka [judikatura/](judikatura/README.md)): NS 29 ICdo 170/2024 k pojmu „jiný procesní úkon“ v hlasovacím lístku o způsobu oddlužení (§ 401 odst. 1 IZ; u § 3 až 6) a NS 29 ICdo 106/2020 k soupisu majetku ve společném jmění manželů (§ 205 odst. 3 a § 274 IZ; u § 12). Obě karty vykládají insolvenční zákon, nikoli vyhlášku; jinou judikaturu komentář neuvádí. Výklad dále vychází z textu vyhlášky, z prováděných ustanovení IZ, z navazujících podzákonných předpisů (zejména jednacího řádu pro insolvenční řízení a standardů výkonu funkce insolvenčního správce) a z obecných výkladových zásad. Tam, kde text nedává jednoznačnou odpověď, komentář to výslovně označuje jako **výkladovou otázku**.
 
 ---
 
@@ -108,7 +108,7 @@ Doprovodné soubory [ZASADY.md](ZASADY.md) a [PRAVNI-MODALITY.md](PRAVNI-MODALIT
 - U každého paragrafu je v citačním bloku uvedeno **úplné doslovné znění** podle místní konsolidace (bez elips), pod ním oddíl `**Výklad:**` s vazbou na prováděná ustanovení IZ a dále oddíly F. Kazuistika, G. Protiargumenty a rizika, H. Praktický závěr a kontrolní checklist.
 - Výklad každého podání postupuje ve třech krocích: **zákonný podklad a zmocnění** (které ustanovení IZ vyhláška provádí a zda IZ vyžaduje formulář), **obsah a přílohy** (význam jednotlivých písmen) a **důsledky vad** (nepřihlédnutí, výzva podle § 43 o. s. ř., zvláštní mechanismus IZ).
 - Kde vyhláška zákonný obsah nezachycuje úplně, nebo se od zákona terminologicky odchyluje, komentář dává přednost znění IZ a upozorňuje na to; z mlčení vyhlášky nedovozuje, že zákonem vyžadovaný údaj být nemusí.
-- Komentář neobsahuje judikaturu; neuvádí žádné spisové značky a modelové situace v oddílech F. Kazuistika jsou smyšlené ilustrace, nikoli popis skutečných věcí.
+- Judikatura pochází jen ze dvou místních karet Nejvyššího soudu: NS 29 ICdo 170/2024 je vložena u § 3 až 6, NS 29 ICdo 106/2020 u § 12. Za každým strojově vloženým blokem s citací karty následuje samostatný odstavec, který vysvětluje, co karta řeší, jak se její závěr promítá do výkladu ustanovení vyhlášky a kde jsou hranice její použitelnosti (vykládané znění IZ, časová vrstva, přímý či jen nepřímý dopad). Jiné spisové značky komentář neuvádí. Modelové situace v oddílech F. Kazuistika jsou smyšlené ilustrace, nikoli popis skutečných věcí; na karty se odvolávají jen tam, kde je to výslovně uvedeno.
 
 ---
 

@@ -2,7 +2,7 @@
 
 <!-- LOCAL-VYKLADOVE-OTAZKY-GENERATED -->
 
-> Tento dokument je pracovní kontrolní mapa sepisovatele komentáře k vyhlášce Ministerstva spravedlnosti č. 191/2017 Sb., o náležitostech podání a formulářů elektronických podání v insolvenčním řízení a o změně vyhlášky č. 311/2007 Sb., o jednacím řádu pro insolvenční řízení a kterou se provádějí některá ustanovení insolvenčního zákona, ve znění pozdějších předpisů. Vychází výhradně z místních kapitol, místního znění předpisu a souborů **ZASADY.md**, **PRAVNI-MODALITY.md** a **HLOUBKOVY-VYKLAD.md**. Odůvodnění vyhlášky ani texty jejích změnových předpisů v repozitáři nejsou a místní karty rozhodnutí zatím chybějí (složka `judikatura/` se doplní strojově později). Dokument nepřidává tezi převzatou z internetu ani nedoplňuje chybějící právo odhadem.
+> Tento dokument je pracovní kontrolní mapa sepisovatele komentáře k vyhlášce Ministerstva spravedlnosti č. 191/2017 Sb., o náležitostech podání a formulářů elektronických podání v insolvenčním řízení a o změně vyhlášky č. 311/2007 Sb., o jednacím řádu pro insolvenční řízení a kterou se provádějí některá ustanovení insolvenčního zákona, ve znění pozdějších předpisů. Vychází výhradně z místních kapitol, místního znění předpisu a souborů **ZASADY.md**, **PRAVNI-MODALITY.md** a **HLOUBKOVY-VYKLAD.md**. Odůvodnění vyhlášky ani texty jejích změnových předpisů v repozitáři nejsou a místní judikatura je omezena na dvě karty Nejvyššího soudu ve složce [judikatura/](judikatura/README.md) (NS 29 ICdo 170/2024 k § 3 až 6, NS 29 ICdo 106/2020 k § 12), které vykládají insolvenční zákon, nikoli vyhlášku. Dokument nepřidává tezi převzatou z internetu ani nedoplňuje chybějící právo odhadem.
 
 ## Jak dokument používat
 
@@ -52,7 +52,8 @@ Místní obsah soustřeďuje rozhodné pojmy zejména zde: [Pojmy, statusy, klas
 Výsledek nejčastěji rozhodují tyto kvalifikace:
 - *Formulář × podání s náležitostmi* — „Formulářem je podoba uveřejněná podle § 430b IZ a § 23 vyhlášky; vlastní text, byť obsahově úplný, jím není.“
 - *Náležitost × příloha* — u hlasovacího lístku je plná moc náležitostí: „plná moc je náležitostí (přílohou) lístku“.
-- *Jiný procesní úkon a podmíněný hlas* — kapitola 01 u § 5: „Zdržení se hlasování vyhláška jako variantu nezná.“
+- *Jiný procesní úkon a podmíněný hlas* — kapitola 01 u § 5: „Zdržení se hlasování vyhláška jako variantu nezná.“ Podle místní karty NS 29 ICdo 170/2024 je v lístku o způsobu oddlužení po zahájení řízení jiným procesním úkonem i hlas o jiném předmětu; kapitola 01 u § 5 o takovém hlasu uvádí: „nejde o součást informace o hlasování, nýbrž o jiný procesní úkon“.
+- *Majetek ve společném jmění manželů v soupisu* — podle místní karty NS 29 ICdo 106/2020 se označuje u každé dotčené položky; kapitola 02 u § 12: „obecný údaj o vlastnictví dlužníka nestačí“.
 - *Povaha pohledávky a jistina k okamžiku vzniku* — u § 8 kapitola k jistině k okamžiku vzniku upozorňuje: „bez tohoto údaje nelze hranici podřízenosti určit“.
 - *Pravost × výše × pořadí* — „Druhy popření lze kombinovat. U každého použitého druhu se však vyplňuje samostatné vymezení důvodů.“
 - *Dílčí pohledávka* — „přihláška tedy může obsahovat více dílčích pohledávek, které se přezkoumávají samostatně“.
@@ -113,7 +114,7 @@ Riziko nejistoty nese u jednoúčelových podání (vstup, lístek, popření) v
 
 **Jak ji řešit.** Pro každou náležitost vytvořte řádek: rozhodná skutečnost, kdo ji tvrdí, jaká příloha ji dokládá, kdo ji ověřuje, míra přesvědčení a následek neprokázání. Tvrzení musí být uvedeno v podání; příloha je jen důkazem a prohlášení o pravdivosti jen základem odpovědnosti. U skutečností, na něž navazuje domněnka IZ (§ 174 odst. 3, § 220, § 412 odst. 4, § 412a odst. 1 písm. b) IZ), určete, kdo ji může vyvrátit a čím.
 
-**Místní opora.** [§ 2](01-predmet-hlasovani-prihlaska-seznam.md); [§ 8](01-predmet-hlasovani-prihlaska-seznam.md); [§ 10](02-popreni-soupis-konecna-reorganizace.md); [§ 12](02-popreni-soupis-konecna-reorganizace.md); [§ 18](03-oddluzeni-formaty-zaverecna.md); [§ 20](03-oddluzeni-formaty-zaverecna.md); [Příloha](04-priloha.md); [Rozhodné skutečnosti, dokazování a riziko nejistoty](HLOUBKOVY-VYKLAD.md); [místní modality](PRAVNI-MODALITY.md); [místní judikatura](judikatura/README.md) (dosud nedoplněna)
+**Místní opora.** [§ 2](01-predmet-hlasovani-prihlaska-seznam.md); [§ 8](01-predmet-hlasovani-prihlaska-seznam.md); [§ 10](02-popreni-soupis-konecna-reorganizace.md); [§ 12](02-popreni-soupis-konecna-reorganizace.md); [§ 18](03-oddluzeni-formaty-zaverecna.md); [§ 20](03-oddluzeni-formaty-zaverecna.md); [Příloha](04-priloha.md); [Rozhodné skutečnosti, dokazování a riziko nejistoty](HLOUBKOVY-VYKLAD.md); [místní modality](PRAVNI-MODALITY.md); [místní judikatura](judikatura/README.md) (2 karty)
 
 ## 7. Jaké právní následky, sankce a prostředky ochrany navazují?
 
@@ -156,12 +157,14 @@ Doslovný výklad vyhlášky omezuje především zásada 1, a to oběma směry.
 ## 9. Co skutečně plyne z místní judikatury a kde jsou její hranice?
 
 **Odpověď pro tento komentář.**
-Místní složka obsahuje **0** karet rozhodnutí; v systematickém souboru zásad je odkazováno na **0** různých místních karet s použitelnou citací a kapitoly neuvádějí žádnou spisovou značku. Úvod to říká výslovně: „Repozitář neobsahuje místní judikaturu k vyhlášce a komentář žádné spisové značky soudních rozhodnutí neuvádí“. Kazuistiky v kapitolách nejsou rozhodovací praxí: „Komentář neobsahuje judikaturu; neuvádí žádné spisové značky a modelové situace v oddílech F. Kazuistika jsou smyšlené ilustrace, nikoli popis skutečných věcí.“
-Místní korpus tedy neposkytuje citovatelnou judikatorní tezi; judikatorní odpověď se nesmí domýšlet. Složka `judikatura/` se doplní strojově později. Otázky, které bude nutné s doplněnými kartami konfrontovat, jsou sepsány ve vrstvě 9 [hloubkového výkladu](HLOUBKOVY-VYKLAD.md) (třináct bodů — od hranice jiného procesního úkonu v hlasovacím lístku po přechodný režim rozpracovaných podání).
+Místní složka obsahuje **2** karty rozhodnutí Nejvyššího soudu; soubor zásad na ně odkazuje u zásad 3, 4, 6 a 8 a kapitoly je citují jen u § 3 až 6 a u § 12. Úvod to říká výslovně: „Obě karty vykládají insolvenční zákon, nikoli vyhlášku; jinou judikaturu komentář neuvádí.“ Kazuistiky v kapitolách nejsou rozhodovací praxí: „Modelové situace v oddílech F. Kazuistika jsou smyšlené ilustrace, nikoli popis skutečných věcí; na karty se odvolávají jen tam, kde je to výslovně uvedeno.“
+- [NS 29 ICdo 170/2024](judikatura/NS-29-ICdo-170-2024.md) — k § 401 odst. 1 IZ: jiným procesním úkonem, který lístek o způsobu oddlužení podaný po zahájení řízení nesmí obsahovat, je i jiný hlasovací lístek, jímž věřitel hlasuje o něčem jiném (např. o doporučení jiné výše měsíčních splátek). Kapitola 01 z toho u § 3 dovozuje: „Chce-li věřitel hlasovat o způsobu oddlužení i o doporučení jiné výše měsíčních splátek, podá dva samostatné hlasovací lístky.“ Hranice: karta vykládá IZ, ne vyhlášku; na lístky podle § 50 odst. 2 a § 346 IZ ji lze vztáhnout jen úvahou z obdoby a výhrady, podmínky ani kombinovaný hlas pro oba způsoby neřeší. U § 4 až 6 má jen úzký, u § 6 nepřímý dopad.
+- [NS 29 ICdo 106/2020](judikatura/NS-29-ICdo-106-2020.md) — k § 205 odst. 3 a § 274 IZ: majetek ve společném jmění dlužníka a jeho manžela musí být v soupisu u každé dotčené položky identifikován jako takový; kapitola 02 u § 12: „Majetek sepisovaný jako majetek ve společném jmění manželů musí být u každé dotčené položky soupisu výslovně označen jako majetek ve společném jmění manželů; obecný údaj o vlastnictví dlužníka nestačí.“ Závěr, že soupisem podle § 274 IZ se společné jmění má za vypořádané, se váže na znění IZ účinné do 31. 5. 2019; na pozdější znění jej karta nevztahuje. Závěry o vypořádání a o oprávnění správce nakládat s majetkem mají pro § 12 jen nepřímý význam.
+Ze třinácti otevřených otázek vrstvy 9 [hloubkového výkladu](HLOUBKOVY-VYKLAD.md) se karty dotýkají jen první (hranice jiného procesního úkonu v hlasovacím lístku), a to jen částečně; ostatní zůstávají bez místní judikatorní opory a judikatorní odpověď se k nim nesmí domýšlet.
 
-**Jak ji řešit.** U každého budoucího rozhodnutí oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové či procesní předpoklady. Ověřte, zda soud vykládal stejné znění vyhlášky a IZ a zda posuzoval vyhlášku, zákon, nebo jen podobu uveřejněného formuláře. Rozhodnutí k dřívější formulářové části jednacího řádu nepřenášejte bez dalšího na tuto vyhlášku. Chybějící místní judikaturu označte jako mezeru; absenci rozhodnutí nikdy neformulujte jako ustálený závěr.
+**Jak ji řešit.** U každého rozhodnutí oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové či procesní předpoklady. Ověřte, zda soud vykládal stejné znění vyhlášky a IZ a zda posuzoval vyhlášku, zákon, nebo jen podobu uveřejněného formuláře — obě místní karty vykládají IZ. U karty NS 29 ICdo 106/2020 vždy zjistěte, zda se na řízení použije § 274 IZ ve znění do 31. 5. 2019. Rozhodnutí k dřívější formulářové části jednacího řádu nepřenášejte bez dalšího na tuto vyhlášku. U ustanovení bez karty označte místní judikaturu jako mezeru; absenci rozhodnutí ani jedinou kartu nikdy neformulujte jako ustálenou rozhodovací linii.
 
-**Místní opora.** [přehled místní judikatury](judikatura/README.md) (dosud nedoplněn); [místní zásady a citace](ZASADY.md); [Judikatura, nosné důvody a hranice použitelnosti](HLOUBKOVY-VYKLAD.md); [Poznámka k metodě](00-uvod.md)
+**Místní opora.** [přehled místní judikatury](judikatura/README.md) (2 karty); [karta NS 29 ICdo 170/2024](judikatura/NS-29-ICdo-170-2024.md); [karta NS 29 ICdo 106/2020](judikatura/NS-29-ICdo-106-2020.md); [§ 3 až 6](01-predmet-hlasovani-prihlaska-seznam.md); [§ 12](02-popreni-soupis-konecna-reorganizace.md); [místní zásady a citace](ZASADY.md); [Judikatura, nosné důvody a hranice použitelnosti](HLOUBKOVY-VYKLAD.md); [Poznámka k metodě](00-uvod.md)
 
 ## 10. Jaké systematické, kolizní a časové vazby mohou změnit odpověď?
 
@@ -179,7 +182,8 @@ Samostatné oddíly systematických vazeb obsahuje úvod: [Vztah k insolvenční
 **Odpověď pro tento komentář.**
 Místní kapitoly výslovně zachycují protiargumenty v oddílech *G. Protiargumenty a rizika* u všech 28 jednotek; úplný katalog otevřených otázek s variantami a místní preferencí je ve vrstvě 10 [hloubkového výkladu](HLOUBKOVY-VYKLAD.md). Nejvýznamnější sporné body:
 - [§ 3](01-predmet-hlasovani-prihlaska-seznam.md) — elektronický lístek a úřední ověření podpisu; bezpečný postup: „Spolehlivou cestou je listinný lístek s legalizovaným podpisem, případně jeho autorizovaná konverze do elektronické podoby“.
-- [§ 5](01-predmet-hlasovani-prihlaska-seznam.md) — kombinovaný hlas pro oba způsoby oddlužení; „vyhláška neřeší kombinované hlasy (pro oba způsoby)“.
+- [§ 5](01-predmet-hlasovani-prihlaska-seznam.md) — kombinovaný hlas pro oba způsoby oddlužení; „vyhláška neřeší kombinované hlasy (pro oba způsoby)“. Místní karta NS 29 ICdo 170/2024 tuto otázku neřeší; řeší jen spojení hlasu o způsobu oddlužení s hlasem o jiném předmětu (jiný procesní úkon).
+- [§ 12](02-popreni-soupis-konecna-reorganizace.md) — použitelnost závěru karty NS 29 ICdo 106/2020 o „vypořádaném“ společném jmění na znění § 274 IZ po 31. 5. 2019; karta tuto otázku neřeší.
 - [§ 8](01-predmet-hlasovani-prihlaska-seznam.md) — kód pro čtecí zařízení, doplnění údajů o zajištění po lhůtě a standardní formulář EU.
 - [§ 9](01-predmet-hlasovani-prihlaska-seznam.md) — rozsah přezkumných listů; kapitola uzavírá, že systematika „svědčí pro vyhotovení listu ke každé přihlášené (dílčí) pohledávce; jde však o výkladovou otázku“.
 - [§ 10](02-popreni-soupis-konecna-reorganizace.md) — hranice mezi neúplným a nepřesvědčivým popřením.
@@ -207,9 +211,9 @@ Aplikační vrstvu lze ověřit zejména v: [01-predmet-hlasovani-prihlaska-sezn
 ## 13. Co komentář dosud neví a kdy se musí aktualizovat?
 
 **Odpověď pro tento komentář.**
-Současný místní korpus tvoří **5** kapitolových souborů a **0** karet rozhodnutí, doplněných samostatnou mapou zásad, modalit a hloubkovým výkladem. Tento údaj vyjadřuje stav místních zdrojů, nikoli úplnost objektivního práva. Úvod sám vymezuje hranici: „Vychází ze znění vyhlášky účinného od 1. 10. 2024 a ze znění IZ účinného od 1. 1. 2026 podle místních podkladů; pozdější změny nemusí být zohledněny.“
+Současný místní korpus tvoří **5** kapitolových souborů a **2** karty rozhodnutí Nejvyššího soudu (NS 29 ICdo 170/2024 k § 3 až 6, NS 29 ICdo 106/2020 k § 12), doplněné samostatnou mapou zásad, modalit a hloubkovým výkladem. Tento údaj vyjadřuje stav místních zdrojů, nikoli úplnost objektivního práva. Úvod sám vymezuje hranici: „Vychází ze znění vyhlášky účinného od 1. 10. 2024 a ze znění IZ účinného od 1. 1. 2026 podle místních podkladů; pozdější změny nemusí být zohledněny.“
 Kontrolní mezery zjištěné podle místní struktury:
-- místní judikatura neposkytuje citovatelnou tezi (složka `judikatura/` bude doplněna strojově);
+- místní judikatura je omezena na dvě karty, které vykládají IZ; k ostatním ustanovením (včetně kapitol 03 a 04) citovatelnou judikatorní tezi neposkytuje a karta NS 29 ICdo 106/2020 je v závěru o vypořádaném společném jmění vázána na znění § 274 IZ do 31. 5. 2019;
 - texty a přechodná ustanovení změnových vyhlášek č. 131/2019 Sb., č. 581/2020 Sb. a č. 254/2024 Sb. ani odůvodnění vyhlášky v repozitáři nejsou;
 - uveřejněné PDF formuláře a jejich verze nejsou místně dostupné;
 - odkazy na IZ odpovídají konsolidaci od 1. 1. 2026, u starších řízení je nutné je ověřit k rozhodnému dni;
@@ -218,4 +222,4 @@ Aktualizaci musí spustit zejména změna vyhlášky nebo uveřejněného formul
 
 **Jak ji řešit.** Na konci každého výkladu veďte krátký stav poznání: ověřené pravidlo, použitý místní zdroj, rozhodné znění, otevřená otázka a událost vyžadující revizi. Tvrzení bez dohledatelného místního podkladu buď odstraňte, nebo je označte jako hypotézu; absenci rozhodnutí nikdy neformulujte jako ustálený právní závěr.
 
-**Místní opora.** [rejstřík místního korpusu](INDEX.md); [místní judikatura](judikatura/README.md) (dosud nedoplněna); [místní zásady](ZASADY.md); [místní modality](PRAVNI-MODALITY.md); [Stav poznání, kapitolová úplnost a aktualizační spouštěče](HLOUBKOVY-VYKLAD.md)
+**Místní opora.** [rejstřík místního korpusu](INDEX.md); [místní judikatura](judikatura/README.md) (2 karty); [místní zásady](ZASADY.md); [místní modality](PRAVNI-MODALITY.md); [Stav poznání, kapitolová úplnost a aktualizační spouštěče](HLOUBKOVY-VYKLAD.md)

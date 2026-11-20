@@ -222,9 +222,11 @@ Návrh na vstup je „formulářově přísné" podání: chyba ve formě se nen
 - *NS* [29 ICdo 170/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1B3D87B727663E8AC1258BF40052C0DC?openDocument) — 28. 11. 2024, kat. A
   > „„Jiným procesním úkonem“, který podle § 401 odst. 1 insolvenčního zákona nesmí být obsažen v hlasovacím lístku, jímž věřitel hlasuje o způsobu oddlužení po zahájení insolvenčního řízení, je i procesní úkon (jiný hlasovací lístek), jímž věřitel hlasuje o něčem jiném (např. o tom, zda doporučuje vyhovět žádosti dlužníka o stanovení jiné výše měsíčních splátek)"
 
+**K místní judikaturní kartě NS 29 ICdo 170/2024:** Karta (rozhodnutí Nejvyššího soudu z 28. 11. 2024, kategorie A) vykládá zákaz, aby podání označené „Hlasovací lístek“ obsahovalo „žádný jiný procesní úkon“, v § 401 odst. 1 IZ, tedy při hlasování o způsobu oddlužení mimo schůzi věřitelů po zahájení insolvenčního řízení. Řeší otázku, zda jiným procesním úkonem může být i další hlasování. Podle právní věty je jím „i procesní úkon (jiný hlasovací lístek), jímž věřitel hlasuje o něčem jiném“; jako příklad karta uvádí hlasování o tom, zda věřitel doporučuje vyhovět žádosti dlužníka o stanovení jiné výše měsíčních splátek (§ 400 odst. 1 věta druhá, § 401 odst. 4 IZ). Zákaz tedy nemíří jen na úkony jiné povahy (žádosti, návrhy, námitky — srov. kazuistiku níže), ale i na hlas o jiném předmětu hlasování; uvedený příklad je jen demonstrativní („např.“). **Následek** stanoví přímo § 401 odst. 1 IZ: k hlasu o způsobu oddlužení obsaženému v takovém podání se nepřihlíží, § 43 o. s. ř. se nepoužije a vadu nelze napravit výzvou, jen novým bezvadným lístkem doručeným soudu nejpozději v den předcházející schůzi věřitelů; o tom, že k hlasu nelze přihlédnout, věřitele neprodleně vyrozumí insolvenční správce (§ 401 odst. 3 písm. a) IZ). Karta výslovně hovoří jen o lístku, jímž se hlasuje o způsobu oddlužení. Pro hlas o doporučení jiné výše splátek se postup podle § 401 odst. 1 až 3 IZ uplatní obdobně (§ 401 odst. 4 IZ); zda je ve spojeném podání bez účinku i tento druhý hlas, však karta neřeší. **Do výkladu § 3** se závěr promítá tak, že lístek, jímž se po zahájení řízení hlasuje o způsobu oddlužení, smí obsahovat jen jedno vymezení předmětu hlasování (písm. g)) a k němu jedinou informaci o hlasování (písm. h)). Chce-li věřitel hlasovat o způsobu oddlužení i o doporučení jiné výše měsíčních splátek, podá dva samostatné hlasovací lístky. Každý z nich musí obsahovat všechny náležitosti podle písm. a) až k), včetně úředně ověřeného podpisu, a je-li věřitel zastoupen, i plnou moc jako označenou přílohu (§ 7). **Hranice použitelnosti:** karta vykládá insolvenční zákon (§ 401 odst. 1 IZ), nikoli vyhlášku; náležitosti podle § 3 nemění, určuje jen, co podání nesmí obsahovat navíc. Výslovně se týká hlasování o způsobu oddlužení po zahájení řízení. Pro hlasování před zahájením řízení užívá IZ pojem „žádný jiný právní úkon“ (§ 346 odst. 2, § 401 odst. 2 IZ). Pro hlasování na schůzi věřitelů a o reorganizačním plánu po zahájení řízení obsahuje stejně formulovaný zákaz (§ 50 odst. 2, § 346 odst. 1 IZ). Přenesení závěru karty na tyto situace je úvahou z obdoby téhož zákonného textu, nikoli obsahem karty; oddělené lístky pro každý předmět hlasování jsou tam proto bezpečným postupem. Karta neřeší výhrady, komentáře ani podmínky připojené k hlasu (k nim § 5 a oddíl G). Časově karta znění § 401 odst. 1 IZ neomezuje; v místní konsolidaci IZ účinné od 1. 1. 2026 je zákaz formulován stejně.
+
 #### Zákonný rámec — tři situace písemného hlasování
 
-IZ připouští písemné hlasování „Hlasovacím lístkem" ve třech okruzích a pro každý odkazuje na prováděcí předpis: (1) hlasování na **schůzi věřitelů** v nepřítomnosti věřitele (§ 50 odst. 2 a 3 IZ); (2) hlasování o přijetí **reorganizačního plánu** mimo schůzi věřitelů, po zahájení i před zahájením insolvenčního řízení (§ 345, § 346 IZ); (3) hlasování o **způsobu oddlužení** mimo schůzi a o tom, zda věřitelé doporučují vyhovět žádosti dlužníka o stanovení jiné výše měsíčních splátek (§ 400, § 401 IZ). Ve všech případech zákon vyžaduje, aby podání bylo **výslovně označeno** „Hlasovací lístek", **neobsahovalo žádný jiný procesní úkon** (před zahájením řízení „právní úkon"), aby z něj bylo **nepochybné, jak věřitel hlasoval**, a aby na něm byla **úředně ověřena pravost podpisu**. K hlasu se přihlíží, jen bylo-li podání „obsahující všechny náležitosti" doručeno insolvenčnímu soudu nejpozději v den předcházející schůzi věřitelů, resp. při hlasování před zahájením řízení dlužníku do konce lhůty, kterou dlužník stanovil (nejméně 15 dnů); **§ 43 o. s. ř. se nepoužije**. Úplnost náležitostí podle vyhlášky je tak přímo podmínkou platnosti hlasu — vadný lístek nelze dodatečně opravit.
+IZ připouští písemné hlasování „Hlasovacím lístkem" ve třech okruzích a pro každý odkazuje na prováděcí předpis: (1) hlasování na **schůzi věřitelů** v nepřítomnosti věřitele (§ 50 odst. 2 a 3 IZ); (2) hlasování o přijetí **reorganizačního plánu** mimo schůzi věřitelů, po zahájení i před zahájením insolvenčního řízení (§ 345, § 346 IZ); (3) hlasování o **způsobu oddlužení** mimo schůzi a — samostatně, jiným lístkem (viz kartu výše) — o tom, zda věřitelé doporučují vyhovět žádosti dlužníka o stanovení jiné výše měsíčních splátek (§ 400, § 401 IZ). Ve všech případech zákon vyžaduje, aby podání bylo **výslovně označeno** „Hlasovací lístek", **neobsahovalo žádný jiný procesní úkon** (před zahájením řízení „právní úkon"), aby z něj bylo **nepochybné, jak věřitel hlasoval**, a aby na něm byla **úředně ověřena pravost podpisu**. K hlasu se přihlíží, jen bylo-li podání „obsahující všechny náležitosti" doručeno insolvenčnímu soudu nejpozději v den předcházející schůzi věřitelů, resp. při hlasování před zahájením řízení dlužníku do konce lhůty, kterou dlužník stanovil (nejméně 15 dnů); **§ 43 o. s. ř. se nepoužije**. Úplnost náležitostí podle vyhlášky je tak přímo podmínkou platnosti hlasu — vadný lístek nelze dodatečně opravit.
 
 #### Náležitosti
 
@@ -249,20 +251,21 @@ Zda požadavek úředního ověření podpisu splní hlasovací lístek podaný 
 
 **5. Řešení.** K hlasu se nepřihlíží; výzva k odstranění vad se nevydává (§ 43 o. s. ř. se nepoužije). Dodavatel měl lístek odeslat s dostatečným předstihem (nejlépe tak, aby dospěl alespoň den před schůzí) a žádost vůči správci podat samostatným podáním.
 
-**6. Varianty.** (a) Lístek dojde včas, ale bez úředně ověřeného podpisu — k hlasu se nepřihlédne. (b) Věřitel neuvede, zda byla pohledávka zjištěna, protože to neví — písm. f) vyžaduje údaj jen „je-li věřiteli znám", vadu proto nelze dovozovat. (c) Hlasování o reorganizačním plánu před zahájením řízení — lístek se doručuje dlužníku ve lhůtě jím stanovené, spisová značka ani označení přihlášky se neuvádějí.
+**6. Varianty.** (a) Lístek dojde včas, ale bez úředně ověřeného podpisu — k hlasu se nepřihlédne. (b) Věřitel neuvede, zda byla pohledávka zjištěna, protože to neví — písm. f) vyžaduje údaj jen „je-li věřiteli znám", vadu proto nelze dovozovat. (c) Hlasování o reorganizačním plánu před zahájením řízení — lístek se doručuje dlužníku ve lhůtě jím stanovené, spisová značka ani označení přihlášky se neuvádějí. (d) V oddlužení podá věřitel po zahájení řízení jediné podání označené „Hlasovací lístek“, v němž hlasuje pro oddlužení plněním splátkového kalendáře se zpeněžením majetkové podstaty a zároveň pro doporučení vyhovět žádosti dlužníka o stanovení jiné výše měsíčních splátek. Podle NS 29 ICdo 170/2024 je hlas o doporučení jiným procesním úkonem; k hlasu o způsobu oddlužení se nepřihlédne (§ 401 odst. 1 IZ) a správce o tom věřitele vyrozumí (§ 401 odst. 3 písm. a) IZ). Věřitel měl podat dva samostatné lístky, každý se všemi náležitostmi.
 
 #### G. Protiargumenty a rizika
 
 - *„Jde o přepjatý formalismus, z lístku je jasné, jak věřitel hlasoval."* Neutralizace: IZ váže přihlédnutí k hlasu výslovně na všechny náležitosti a vylučuje výzvu k opravě; podzákonný předpis tuto přísnost jen konkretizuje.
 - *„Formulář ministerstva musí být použit."* Neutralizace: IZ vyžaduje označení a náležitosti, ne formulář (§ 50 odst. 3 IZ).
-- *Slabé místo:* nejasné hranice „jiného procesního úkonu" a podmíněných náležitostí (písm. e) bod 2, písm. f), i)); posouzení, která chybějící položka je „náležitostí", je výkladovou otázkou.
+- *„Hlas o způsobu oddlužení a hlas o doporučení jiné výše splátek se týkají téhož oddlužení, jejich spojení v jednom lístku je jen úspornější."* Neutralizace: podle NS 29 ICdo 170/2024 je hlas o jiném předmětu jiným procesním úkonem (§ 401 odst. 1 IZ); úspora formy zákonnou podmínku jednoúčelovosti lístku nepřekoná.
+- *Slabé místo:* hranici „jiného procesního úkonu" vyjasňuje karta NS 29 ICdo 170/2024 jen pro další hlasování v lístku o způsobu oddlužení po zahájení řízení. U výhrad a komentářů k hlasu, u ostatních druhů lístků a u podmíněných náležitostí (písm. e) bod 2, písm. f), i)) zůstává posouzení, co je jiným úkonem a která chybějící položka je „náležitostí", výkladovou otázkou.
 
 #### H. Praktický závěr
 
 Hlasovací lístek je jednoúčelové podání s nulovou tolerancí vad — úplnost a včasnost se kontrolují předem, nikoli dodatečně.
 
 **Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Označení „Hlasovací lístek" a žádný jiný úkon v témže podání.
+- [ ] Označení „Hlasovací lístek" a žádný jiný úkon v témže podání — ani hlas o jiném předmětu (v oddlužení zvlášť lístek o způsobu oddlužení a zvlášť o doporučení jiné výše splátek; NS 29 ICdo 170/2024).
 - [ ] Výše pohledávek (zajištěné / nezajištěné) a označení přihlášky.
 - [ ] Předmět hlasování a jednoznačný hlas (§§ 4 až 6).
 - [ ] Úředně ověřený podpis; plná moc jako označená příloha (§ 7).
@@ -287,6 +290,8 @@ Hlasovací lístek je jednoúčelové podání s nulovou tolerancí vad — úpl
 - *NS* [29 ICdo 170/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1B3D87B727663E8AC1258BF40052C0DC?openDocument) — 28. 11. 2024, kat. A
   > „„Jiným procesním úkonem“, který podle § 401 odst. 1 insolvenčního zákona nesmí být obsažen v hlasovacím lístku, jímž věřitel hlasuje o způsobu oddlužení po zahájení insolvenčního řízení, je i procesní úkon (jiný hlasovací lístek), jímž věřitel hlasuje o něčem jiném (např. o tom, zda doporučuje vyhovět žádosti dlužníka o stanovení jiné výše měsíčních splátek)"
 
+**K místní judikaturní kartě NS 29 ICdo 170/2024:** Podrobný rozbor karty je u § 3. Pro § 4 má samostatný význam v odst. 3. Ten uvádí hlasování o způsobu oddlužení a hlasování o tom, zda věřitelé doporučují vyhovět žádosti dlužníka o stanovení jiné výše měsíčních splátek, jako dva alternativní předměty hlasování (spojka „nebo“). Karta potvrzuje, že jde o dvě samostatná hlasování. Hlas o doporučení jiné výše splátek obsažený v témže podání jako hlas o způsobu oddlužení po zahájení řízení je jiným procesním úkonem a k hlasu o způsobu oddlužení se nepřihlíží (§ 401 odst. 1 IZ). Vymezení předmětu hlasování v jednom lístku proto popíše jen jednu z obou otázek. Informace, zda jde o hlasování před, nebo po zahájení řízení, se uvádí v každém z obou lístků. Na odst. 1 a 2 karta přímo nedopadá, protože hlasování na schůzi věřitelů ani o reorganizačním plánu neposuzuje; mimo odst. 3 je její dopad na § 4 jen nepřímý.
+
 #### Obecné vymezení (odst. 1)
 
 Vymezení předmětu hlasování [§ 3 písm. g)] musí popsat návrh či jinou záležitost tak, aby hlas bylo možné jednoznačně přiřadit k určitému usnesení. Jde o praktické provedení zákonného požadavku, aby z podání bylo „nepochybné, jak [věřitelé] hlasovali" (§ 50 odst. 2, § 346 odst. 1 a 2, § 401 odst. 1 a 2 IZ). Bezpečné je převzít znění návrhu usnesení z vyhlášky o svolání schůze věřitelů.
@@ -297,7 +302,7 @@ U hlasování o přijetí reorganizačního plánu musí lístek uvést, zda jde
 
 #### Oddlužení (odst. 3)
 
-U hlasování o způsobu oddlužení a o doporučení vyhovět žádosti dlužníka o jinou výši měsíčních splátek (§ 398 odst. 5, § 399 odst. 1, § 401 odst. 4 IZ) se rovněž uvádí, zda jde o hlasování před, nebo po zahájení řízení, z týchž důvodů (§ 400 odst. 1, § 401 odst. 1 a 2 IZ).
+U hlasování o způsobu oddlužení a o doporučení vyhovět žádosti dlužníka o jinou výši měsíčních splátek (§ 398 odst. 5, § 399 odst. 1, § 401 odst. 4 IZ) se rovněž uvádí, zda jde o hlasování před, nebo po zahájení řízení, z týchž důvodů (§ 400 odst. 1, § 401 odst. 1 a 2 IZ). Jde o dva samostatné předměty hlasování; o každém se hlasuje samostatným lístkem (NS 29 ICdo 170/2024, viz výše).
 
 #### F. Kazuistika
 
@@ -311,11 +316,12 @@ U hlasování o způsobu oddlužení a o doporučení vyhovět žádosti dlužn�
 
 **5. Řešení.** K hlasu se nepřihlíží; oprava výzvou není možná. Věřitel musí podat nový lístek včas.
 
-**6. Varianty.** (a) Existuje jediný plán navržený dlužníkem — hlas je přiřaditelný, chybějící informace o předkladateli je však formálně neúplností; jak přísně ji posuzovat, je výkladovou otázkou. (b) Hlasování o způsobu oddlužení před zahájením řízení — lístek se doručuje dlužníku.
+**6. Varianty.** (a) Existuje jediný plán navržený dlužníkem — hlas je přiřaditelný, chybějící informace o předkladateli je však formálně neúplností; jak přísně ji posuzovat, je výkladovou otázkou. (b) Hlasování o způsobu oddlužení před zahájením řízení — lístek se doručuje dlužníku. (c) Věřitel v jediném lístku podaném po zahájení řízení vymezí jako předmět hlasování způsob oddlužení i doporučení jiné výše měsíčních splátek — jde o jiný procesní úkon (NS 29 ICdo 170/2024, rozbor u § 3); k hlasu o způsobu oddlužení se nepřihlédne.
 
 #### G. Protiargumenty a rizika
 
 - *„Předmět je zřejmý z kontextu schůze."* Neutralizace: lístek musí být srozumitelný sám o sobě; IZ požaduje nepochybnost hlasu z podání.
+- *„Obě otázky oddlužení projednává táž schůze, lze je proto vymezit v jednom lístku."* Neutralizace: hlas o jiném předmětu je jiným procesním úkonem (NS 29 ICdo 170/2024; § 401 odst. 1 IZ).
 - *Slabé místo:* hlasování ve skupinách (§ 337 IZ) vyhláška nereflektuje.
 
 #### H. Praktický závěr
@@ -326,6 +332,7 @@ Předmět hlasování se vymezuje tak, aby byl hlas přiřaditelný bez dalšíh
 - [ ] Převzít přesné znění návrhu usnesení.
 - [ ] U reorganizace a oddlužení uvést „před/po zahájení řízení".
 - [ ] U plánu označit předkladatele (věřitel / dlužník).
+- [ ] V oddlužení samostatný lístek pro způsob oddlužení a samostatný lístek pro doporučení jiné výše splátek.
 
 **Typicky rozhodné důkazy / podklady:** vyhláška o svolání schůze, předložené reorganizační plány, návrh na povolení oddlužení se žádostí o jinou výši splátek.
 
@@ -344,9 +351,11 @@ Předmět hlasování se vymezuje tak, aby byl hlas přiřaditelný bez dalšíh
 - *NS* [29 ICdo 170/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1B3D87B727663E8AC1258BF40052C0DC?openDocument) — 28. 11. 2024, kat. A
   > „„Jiným procesním úkonem“, který podle § 401 odst. 1 insolvenčního zákona nesmí být obsažen v hlasovacím lístku, jímž věřitel hlasuje o způsobu oddlužení po zahájení insolvenčního řízení, je i procesní úkon (jiný hlasovací lístek), jímž věřitel hlasuje o něčem jiném (např. o tom, zda doporučuje vyhovět žádosti dlužníka o stanovení jiné výše měsíčních splátek)"
 
+**K místní judikaturní kartě NS 29 ICdo 170/2024:** Podrobný rozbor karty je u § 3. Pro § 5 z ní plyne, že informace o hlasování podle odst. 2 je v lístku o způsobu oddlužení jediným obsahem hlasu: věřitel v ní uvede, zda hlasuje pro nebo proti jednotlivým způsobům oddlužení, nebo proti všem. Připojí-li do téhož podání i hlas pro nebo proti doporučení vyhovět žádosti dlužníka o stanovení jiné výše měsíčních splátek, nejde o součást informace o hlasování, nýbrž o jiný procesní úkon. K hlasu o způsobu oddlužení se pak nepřihlíží (§ 401 odst. 1 IZ), i když je sám o sobě jednoznačný. Karta naopak neřeší podmíněný hlas, výhrady ani kombinovaný hlas pro oba způsoby. U podmínky rozhoduje § 50 odst. 1 věta druhá IZ, použitelný v oddlužení obdobně podle § 399 odst. 1 IZ; ostatní otázky zůstávají výkladové (oddíl G). Na odst. 1 (hlasování o jiných záležitostech) karta přímo nedopadá.
+
 #### Jednoznačnost hlasu (odst. 1)
 
-Informace o hlasování [§ 3 písm. h)] musí obsahovat binární volbu **pro / proti** přijetí návrhu či schválení jiné záležitosti. Zdržení se hlasování vyhláška jako variantu nezná. Hlas nesmí být podmíněn — ke hlasu vázanému na splnění podmínky se nepřihlíží (§ 50 odst. 1 věta druhá IZ). Výhrady, komentáře nebo návrhy změn v lístku hrozí, že budou posouzeny jako podmínka nebo jako „jiný procesní úkon" (§ 50 odst. 2 IZ).
+Informace o hlasování [§ 3 písm. h)] musí obsahovat binární volbu **pro / proti** přijetí návrhu či schválení jiné záležitosti. Zdržení se hlasování vyhláška jako variantu nezná. Hlas nesmí být podmíněn — ke hlasu vázanému na splnění podmínky se nepřihlíží (§ 50 odst. 1 věta druhá IZ). Výhrady, komentáře nebo návrhy změn v lístku hrozí, že budou posouzeny jako podmínka nebo jako „jiný procesní úkon" (§ 50 odst. 2 IZ; při hlasování mimo schůzi o způsobu oddlužení § 401 odst. 1 IZ). Hlas o jiném předmětu hlasování je v lístku o způsobu oddlužení podaném po zahájení řízení jiným procesním úkonem bez ohledu na svůj obsah (NS 29 ICdo 170/2024, viz výše).
 
 #### Hlasování o způsobu oddlužení (odst. 2)
 
@@ -364,7 +373,7 @@ IZ zná dva způsoby oddlužení — zpeněžení majetkové podstaty a plnění
 
 **5. Řešení.** K hlasu se nepřihlíží. Věřitel může podat nový, nepodmíněný lístek, stihne-li lhůtu.
 
-**6. Varianty.** (a) Věřitel hlasuje „proti všem způsobům" — hlas je platný a započítá se jako nesouhlas s oběma. (b) Věřitel hlasuje „pro" oba způsoby současně — z lístku není nepochybné, jak hlasoval; jde o výkladovou otázku s rizikem nepřihlédnutí.
+**6. Varianty.** (a) Věřitel hlasuje „proti všem způsobům" — hlas je platný a započítá se jako nesouhlas s oběma. (b) Věřitel hlasuje „pro" oba způsoby současně — z lístku není nepochybné, jak hlasoval; jde o výkladovou otázku s rizikem nepřihlédnutí. (c) Věřitel k jednoznačnému hlasu pro plnění splátkového kalendáře se zpeněžením majetkové podstaty připojí v témže lístku hlas pro doporučení vyhovět žádosti dlužníka o stanovení jiné výše měsíčních splátek — jde o hlas o jiném předmětu, tedy o jiný procesní úkon (NS 29 ICdo 170/2024); k hlasu o způsobu oddlužení se nepřihlédne.
 
 #### G. Protiargumenty a rizika
 
@@ -379,6 +388,7 @@ Hlas musí být jednoznačný a nepodmíněný; u oddlužení se volí mezi dvě
 - [ ] Zvolit jen „pro" nebo „proti", bez výhrad.
 - [ ] U oddlužení označit způsob, nebo „proti všem".
 - [ ] Nevkládat podmínky ani návrhy.
+- [ ] Hlas o doporučení jiné výše splátek nepřipojovat k lístku o způsobu oddlužení (samostatný lístek).
 
 **Typicky rozhodné důkazy / podklady:** hlasovací lístek, zpráva pro oddlužení, protokol o schůzi věřitelů.
 
@@ -396,6 +406,8 @@ Hlas musí být jednoznačný a nepodmíněný; u oddlužení se volí mezi dvě
 
 - *NS* [29 ICdo 170/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1B3D87B727663E8AC1258BF40052C0DC?openDocument) — 28. 11. 2024, kat. A
   > „„Jiným procesním úkonem“, který podle § 401 odst. 1 insolvenčního zákona nesmí být obsažen v hlasovacím lístku, jímž věřitel hlasuje o způsobu oddlužení po zahájení insolvenčního řízení, je i procesní úkon (jiný hlasovací lístek), jímž věřitel hlasuje o něčem jiném (např. o tom, zda doporučuje vyhovět žádosti dlužníka o stanovení jiné výše měsíčních splátek)"
+
+**K místní judikaturní kartě NS 29 ICdo 170/2024:** Podrobný rozbor karty je u § 3. Pro § 6 má karta jen nepřímý dopad, a to přes odst. 2. Ten vyžaduje prohlášení o nezajištěnosti jak při hlasování o způsobu oddlužení, tak při hlasování o doporučení jiné výše měsíčních splátek. Podle karty nelze oba hlasy spojit v jednom podání a každé podání musí obsahovat všechny náležitosti (§ 401 odst. 1 a 4 IZ). Věřitel proto uvede prohlášení podle odst. 2 v každém z obou samostatných lístků; hlasuje-li jen s částí přihlášené pohledávky, uvede v obou také nižší částku podle odst. 1. Výši hlasující pohledávky ani rozsah zajištění karta neřeší.
 
 #### Výše hlasující pohledávky (odst. 1)
 
@@ -417,7 +429,7 @@ O způsobu oddlužení a o doporučení jiné výše měsíčních splátek hlas
 
 **5. Řešení.** Banka podá lístek s částkou 60 000 Kč, rozlišením zajištěných a nezajištěných pohledávek a prohlášením podle odst. 2. Lístek s částkou 1 560 000 Kč a bez prohlášení je neúplný a hrozí, že k hlasu nebude přihlédnuto.
 
-**6. Varianty.** (a) Znalec ocení zástavu na 1 200 000 Kč — ani v rozsahu nekryté části (300 000 Kč) banka nehlasuje (§ 402 odst. 1 věta druhá IZ). (b) Hlasování na schůzi o jiné věci než oddlužení — prohlášení podle odst. 2 se nevyžaduje.
+**6. Varianty.** (a) Znalec ocení zástavu na 1 200 000 Kč — ani v rozsahu nekryté části (300 000 Kč) banka nehlasuje (§ 402 odst. 1 věta druhá IZ). (b) Hlasování na schůzi o jiné věci než oddlužení — prohlášení podle odst. 2 se nevyžaduje. (c) Banka chce hlasovat i o doporučení vyhovět žádosti dlužníka o stanovení jiné výše měsíčních splátek — podá druhý samostatný lístek, opět s částkou 60 000 Kč a s prohlášením podle odst. 2; spojení obou hlasů v jednom lístku by bylo jiným procesním úkonem (NS 29 ICdo 170/2024, rozbor u § 3).
 
 #### G. Protiargumenty a rizika
 
@@ -432,6 +444,7 @@ Lístek musí přesně vyjádřit, s jakou částkou věřitel hlasuje, a v oddl
 - [ ] Uvést nižší hlasující částku, pokud se liší od přihlášené.
 - [ ] V oddlužení připojit prohlášení o nezajištěnosti.
 - [ ] Ověřit popření a zajištění v seznamu přihlášených pohledávek.
+- [ ] Hlasuje-li věřitel o způsobu oddlužení i o doporučení jiné výše splátek: dva lístky, v každém prohlášení podle odst. 2 (a případně nižší částka).
 
 **Typicky rozhodné důkazy / podklady:** seznam přihlášených pohledávek, zpráva o přezkumu, znalecký posudek o hodnotě zajištění, hlasovací lístek.
 

@@ -4,7 +4,7 @@
 
 ## Metoda
 
-Obsahovým zdrojem jsou pouze lokální soubory tohoto repozitáře — znění vyhlášky citované v kapitolách [01-predmet-hlasovani-prihlaska-seznam.md](01-predmet-hlasovani-prihlaska-seznam.md), [02-popreni-soupis-konecna-reorganizace.md](02-popreni-soupis-konecna-reorganizace.md), [03-oddluzeni-formaty-zaverecna.md](03-oddluzeni-formaty-zaverecna.md) a [04-priloha.md](04-priloha.md), výklad k jednotlivým ustanovením v týchž kapitolách a úvod v [00-uvod.md](00-uvod.md). Repozitář **neobsahuje žádnou místní judikaturu** k vyhlášce a tento soubor proto neuvádí žádné spisové značky. Zásady jsou dovozeny z textu vyhlášky, z prováděných ustanovení insolvenčního zákona (dále „IZ"), na něž komentář odkazuje, ze systematiky předpisu a z jeho zjevného účelu — nikoli z judikatorních tezí. Vyhláška je technickým prováděcím předpisem: její zásady jsou proto převážně zásadami **procesní formy a obsahu podání**, nikoli hmotněprávními hodnotami. Tam, kde by u zavedeného předpisu stála judikatorní citace, je poctivé uvést, že opora dosud chybí a bude ji třeba doplnit, jakmile bude k dispozici rozhodovací praxe v místních pramenech.
+Obsahovým zdrojem jsou pouze lokální soubory tohoto repozitáře — znění vyhlášky citované v kapitolách [01-predmet-hlasovani-prihlaska-seznam.md](01-predmet-hlasovani-prihlaska-seznam.md), [02-popreni-soupis-konecna-reorganizace.md](02-popreni-soupis-konecna-reorganizace.md), [03-oddluzeni-formaty-zaverecna.md](03-oddluzeni-formaty-zaverecna.md) a [04-priloha.md](04-priloha.md), výklad k jednotlivým ustanovením v týchž kapitolách a úvod v [00-uvod.md](00-uvod.md). Repozitář obsahuje jen **dvě místní karty rozhodnutí** Nejvyššího soudu ve složce [judikatura/](judikatura/README.md): NS 29 ICdo 170/2024 (vložena u § 3 až 6) a NS 29 ICdo 106/2020 (vložena u § 12). Obě vykládají insolvenční zákon (dále „IZ"), nikoli vyhlášku. Tento soubor na ně odkazuje jen u zásad, s nimiž přímo souvisejí (zásady 3, 4, 6 a 8), a jejich dosah přebírá výhradně z odstavců „K místní judikaturní kartě…“ v kapitolách. Zásady jsou i nadále dovozeny především z textu vyhlášky, z prováděných ustanovení IZ, na něž komentář odkazuje, ze systematiky předpisu a z jeho zjevného účelu; karty je u uvedených zásad jen zpřesňují. Vyhláška je technickým prováděcím předpisem: její zásady jsou proto převážně zásadami **procesní formy a obsahu podání**, nikoli hmotněprávními hodnotami. U ostatních zásad místní judikatorní opora chybí a bude ji třeba doplnit, jakmile bude v místních pramenech k dispozici přiléhavé rozhodnutí.
 
 Nadpis skupiny je orientační. Citace může vyjadřovat obecnou právní zásadu, ale také užší interpretační nebo aplikační pravidlo; její dosah proto nelze rozšiřovat nad rámec citovaného textu a systematického kontextu ustanovení. Každá citace je doslovně převzata z uvedeného souboru a odkazuje na paragraf, ke kterému se vztahuje.
 
@@ -73,7 +73,7 @@ Zásada formalizace má i svou hranici: u podání, u nichž zákon formulář n
 
 ## 3. Úplnost jednoúčelových podání a vyloučení dodatečné opravy
 
-**Zakotvení:** § 2, § 3 až 7, § 10 ve spojení s § 18 odst. 2, § 50 odst. 2, § 346, § 401 a § 200 odst. 2 IZ
+**Zakotvení:** § 2, § 3 až 7, § 10 ve spojení s § 18 odst. 2, § 50 odst. 2, § 346, § 401 a § 200 odst. 2 IZ; místní karta NS 29 ICdo 170/2024 ([judikatura/NS-29-ICdo-170-2024.md](judikatura/NS-29-ICdo-170-2024.md))
 
 U tří podání — návrhu na vstup místo věřitele, hlasovacího lístku a popření pohledávky přihlášeným věřitelem — zákon vylučuje výzvu k odstranění vad. Úplnost náležitostí podle vyhlášky se tím stává podmínkou samotné účinnosti úkonu. Komentář k § 3 to vyjadřuje takto ([01-predmet-hlasovani-prihlaska-seznam.md](01-predmet-hlasovani-prihlaska-seznam.md), § 3):
 
@@ -82,6 +82,12 @@ U tří podání — návrhu na vstup místo věřitele, hlasovacího lístku a 
 a v praktickém závěru téhož ustanovení:
 
 > „Hlasovací lístek je jednoúčelové podání s nulovou tolerancí vad — úplnost a včasnost se kontrolují předem, nikoli dodatečně."
+
+Jednoúčelovost lístku zpřesňuje místní karta NS 29 ICdo 170/2024: jiným procesním úkonem, který lístek o způsobu oddlužení podaný po zahájení řízení nesmí obsahovat, je i hlas o jiném předmětu hlasování (§ 401 odst. 1 IZ). Komentář k § 3 z toho dovozuje ([01-predmet-hlasovani-prihlaska-seznam.md](01-predmet-hlasovani-prihlaska-seznam.md), § 3):
+
+> „Chce-li věřitel hlasovat o způsobu oddlužení i o doporučení jiné výše měsíčních splátek, podá dva samostatné hlasovací lístky. Každý z nich musí obsahovat všechny náležitosti podle písm. a) až k), včetně úředně ověřeného podpisu, a je-li věřitel zastoupen, i plnou moc jako označenou přílohu (§ 7)."
+
+Dosah karty komentář zároveň omezuje: u lístků na schůzi věřitelů a o reorganizačním plánu je její použití jen „úvahou z obdoby téhož zákonného textu, nikoli obsahem karty".
 
 Vyhláška tuto přísnost promítá i do příloh. U hlasovacího lístku stanoví bez výjimky ([01-predmet-hlasovani-prihlaska-seznam.md](01-predmet-hlasovani-prihlaska-seznam.md), § 7):
 
@@ -95,7 +101,7 @@ Zásada se naopak **neuplatní** u podání, kde zákon zvláštní mechanismus 
 
 ## 4. Jednoznačnost a nepodmíněnost hlasu
 
-**Zakotvení:** § 3 písm. g) a h), § 4, § 5, § 6 ve spojení s § 50 odst. 1 a 2 IZ
+**Zakotvení:** § 3 písm. g) a h), § 4, § 5, § 6 ve spojení s § 50 odst. 1 a 2 a § 401 odst. 1 IZ; místní karta NS 29 ICdo 170/2024 ([judikatura/NS-29-ICdo-170-2024.md](judikatura/NS-29-ICdo-170-2024.md))
 
 Hlasovací lístek nahrazuje osobní účast věřitele na schůzi; soud z něj musí bez dalšího výkladu zjistit, o čem a jak věřitel hlasoval. Vyhláška proto nejprve požaduje určité vymezení předmětu ([01-predmet-hlasovani-prihlaska-seznam.md](01-predmet-hlasovani-prihlaska-seznam.md), § 4):
 
@@ -110,6 +116,8 @@ Komentář k § 5 z toho dovozuje, že prostor pro mezivarianty ani podmínky ne
 > „Zdržení se hlasování vyhláška jako variantu nezná. Hlas nesmí být podmíněn — ke hlasu vázanému na splnění podmínky se nepřihlíží (§ 50 odst. 1 věta druhá IZ)."
 
 U hlasování o způsobu oddlužení se jednoznačnost vztahuje k výběru mezi dvěma zákonnými způsoby. Praktický závěr k § 5 ji shrnuje větou: „Hlas musí být jednoznačný a nepodmíněný; u oddlužení se volí mezi dvěma zákonnými způsoby nebo se hlasuje proti oběma." Stejnému cíli slouží požadavek na označení předkladatele reorganizačního plánu a na údaj, zda jde o hlasování před, nebo po zahájení řízení (§ 4 odst. 2 a 3), i povinnost uvést nižší částku, s níž věřitel hlasuje (§ 6 odst. 1). Praktickým důsledkem zásady je, že „Předmět hlasování se vymezuje tak, aby byl hlas přiřaditelný bez dalšího výkladu." ([01-predmet-hlasovani-prihlaska-seznam.md](01-predmet-hlasovani-prihlaska-seznam.md), § 4) — výhrady, komentáře nebo návrhy změn v lístku hrozí, že budou posouzeny jako podmínka nebo jako jiný procesní úkon, k němuž se nepřihlíží.
+
+U hlasování o způsobu oddlužení po zahájení řízení zpřesňuje zásadu místní karta NS 29 ICdo 170/2024. Jednoznačnost se podle ní vztahuje i k počtu předmětů hlasování v jednom podání; komentář k § 5 uvádí, že připojí-li věřitel do lístku o způsobu oddlužení hlas o doporučení jiné výše splátek, „nejde o součást informace o hlasování, nýbrž o jiný procesní úkon" ([01-predmet-hlasovani-prihlaska-seznam.md](01-predmet-hlasovani-prihlaska-seznam.md), § 5). Hranice karty jsou však úzké — komentář k témuž ustanovení dodává: „Karta naopak neřeší podmíněný hlas, výhrady ani kombinovaný hlas pro oba způsoby." V těchto otázkách zůstává zásada opřena jen o text IZ a vyhlášky.
 
 ## 5. Pravdivost údajů a odpovědnost podatele
 
@@ -139,7 +147,7 @@ Praktickým důsledkem zásady je, že podatel odpovídá za obsah formuláře b
 
 ## 6. Informovanost věřitelů a přezkoumatelnost činnosti správce
 
-**Zakotvení:** § 9, § 12, § 13, § 15 a příloha, § 16, § 18 až 22; § 343 IZ
+**Zakotvení:** § 9, § 12, § 13, § 15 a příloha, § 16, § 18 až 22; § 205 odst. 3 a § 343 IZ; místní karta NS 29 ICdo 106/2020 ([judikatura/NS-29-ICdo-106-2020.md](judikatura/NS-29-ICdo-106-2020.md))
 
 Věřitelé rozhodují o zásadních otázkách řízení (způsob řešení úpadku, přijetí reorganizačního plánu, způsob oddlužení) a kontrolují insolvenčního správce. Mohou tak činit jen na základě úplných, srovnatelných a přehledných informací. U zprávy o reorganizačním plánu vyhláška tento účel výslovně formuluje ([04-priloha.md](04-priloha.md), příloha bod 5):
 
@@ -153,7 +161,11 @@ U dokumentů, které správce vyhotovuje opakovaně, slouží informovanosti sro
 
 > „jestliže nejde o první soupis majetkové podstaty v řízení, shrnutí a vysvětlení změn oproti předchozímu soupisu majetkové podstaty,"
 
-Komentář k témuž ustanovení dodává: „Soupis se v řízení vyhotovuje opakovaně a každá verze musí být srovnatelná s předchozí." Obdobnou funkci plní přezkumné listy seznamu přihlášených pohledávek (§ 9 odst. 5) a přehledy v konečné zprávě (§ 13). U zprávy o plnění reorganizačního plánu komentář zdůrazňuje rozhodovací význam údajů ([02-popreni-soupis-konecna-reorganizace.md](02-popreni-soupis-konecna-reorganizace.md), § 16):
+Komentář k témuž ustanovení dodává: „Soupis se v řízení vyhotovuje opakovaně a každá verze musí být srovnatelná s předchozí." Informační funkce soupisu se projevuje i v určitosti jednotlivých položek. Místní karta NS 29 ICdo 106/2020 se týká majetku ve společném jmění dlužníka a jeho manžela a komentář k § 12 z ní přebírá ([02-popreni-soupis-konecna-reorganizace.md](02-popreni-soupis-konecna-reorganizace.md), § 12):
+
+> „Majetek sepisovaný jako majetek ve společném jmění manželů musí být u každé dotčené položky soupisu výslovně označen jako majetek ve společném jmění manželů; obecný údaj o vlastnictví dlužníka nestačí."
+
+Karta přitom vykládá IZ, nikoli vyhlášku, a do kterého písmene formuláře údaj patří, neurčuje. Obdobnou funkci plní přezkumné listy seznamu přihlášených pohledávek (§ 9 odst. 5) a přehledy v konečné zprávě (§ 13). U zprávy o plnění reorganizačního plánu komentář zdůrazňuje rozhodovací význam údajů ([02-popreni-soupis-konecna-reorganizace.md](02-popreni-soupis-konecna-reorganizace.md), § 16):
 
 > „Věrné údaje o míře uspokojení a o provádění opatření jsou proto pro tato rozhodnutí určující."
 
@@ -179,7 +191,7 @@ U dlužníka — podnikatele, kde se pravidla jednotlivých vět § 24 odst. 1 s
 
 ## 8. Časová působnost podle dne zahájení řízení
 
-**Zakotvení:** § 26; přechodná ustanovení vyhlášek č. 131/2019 Sb. a č. 254/2024 Sb.
+**Zakotvení:** § 26; přechodná ustanovení vyhlášek č. 131/2019 Sb. a č. 254/2024 Sb.; k časové vrstvě místní judikatury karta NS 29 ICdo 106/2020 ([judikatura/NS-29-ICdo-106-2020.md](judikatura/NS-29-ICdo-106-2020.md))
 
 Vyhláška nabyla účinnosti jednorázově ([03-oddluzeni-formaty-zaverecna.md](03-oddluzeni-formaty-zaverecna.md), § 26):
 
@@ -192,6 +204,8 @@ Pozdější změny však nedopadají na všechna probíhající řízení. U zm�
 Z obou změnových vyhlášek pak komentář dovozuje obecné pravidlo ([03-oddluzeni-formaty-zaverecna.md](03-oddluzeni-formaty-zaverecna.md), § 26):
 
 > „Rozhodující je tedy den zahájení insolvenčního řízení (u vyhlášky č. 131/2019 Sb. spolu s dnem rozhodnutí o úpadku), nikoli den podání."
+
+Časový test se uplatní i u místní judikatury. Karta NS 29 ICdo 106/2020 se v části o vypořádaném společném jmění váže na dřívější znění IZ; komentář k § 12 proto upozorňuje, že „závěr karty NS 29 ICdo 106/2020, že soupisem podle § 274 IZ se společné jmění má za vypořádané, se váže na znění IZ účinné do 31. 5. 2019; na řízení podle pozdějšího znění (s doplněnou větou o vypořádání výtěžku zpeněžení) jej nelze bez dalšího použít." ([02-popreni-soupis-konecna-reorganizace.md](02-popreni-soupis-konecna-reorganizace.md), § 12)
 
 Praktickým důsledkem zásady je, že podatel musí před vyplněním formuláře ověřit, kdy bylo insolvenční řízení zahájeno, a použít verzi formuláře uveřejněnou pro znění vyhlášky, které se na dané řízení vztahuje; zejména v oddlužení se náležitosti návrhu, zprávy pro oddlužení a zprávy o plnění oddlužení podle data zahájení řízení liší.
 
