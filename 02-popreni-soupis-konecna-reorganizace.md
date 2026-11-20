@@ -274,6 +274,11 @@ Pořadové číslo vyhotovení a povinné shrnutí změn oproti předchozímu so
 
 **Důsledky vad.** Soupis, který není na formuláři nebo v předepsaném formátu, řeší soud postupem podle § 43 OSŘ (§ 80a odst. 3 IZ). Soud zde působí především v rámci dohlédací činnosti. Vadná identifikace (písm. h)) nebo chybějící údaj o osobě uplatňující právo (písm. k)) však může mít hmotné důsledky. Ovlivňuje, zda byla řádně vyrozuměna osoba oprávněná k vylučovací žalobě, a tedy i počátek lhůty podle § 225 odst. 2 IZ.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 ICdo 106/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A09B5B41039908F4C12588B5001613CA?openDocument) — 22. 6. 2022, kat. A
+  > „Je-li majetek náležející do (nevypořádaného) společného jmění dlužníka a jeho manžela sepsán do majetkové podstaty dlužníka postupem podle § 274 insolvenčního zákona ve znění účinném do 31. 5. 2019, proces vypořádání společného jmění manželů tím končí (společné jmění manželů se má za vypořádané). Bez odklizení účinků takového soupisu nemá smysl uvažovat o dalším běhu lhůty k vypořádání určené ustanovením § 150 odst. 4 obč. zák. Nejde-li o případ předjímaný ustanovením § 274 insolvenčního zákona (ve znění účinném do 31. 5. 2019), předpokládá se, že dojde k vypořádání sepsaného majetku ve společném jmění manželů. Do té doby (než dojde k vypořádání) opravňuje soupis takového majetku do majetkové podstaty dlužníka insolvenčního správce dlužníka, jehož úpadek je řešen konkursem, k nakládání majetkem stejně, jako by s ním mohl nakládat (kdyby konkursu nebylo) samotný dlužník [tedy s…"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** V konkursu na podnikatele v dopravě sepíše správce do soupisu tahač zapsaný v registru vozidel na dlužníka. Dále sepíše tři návěsy, které podle zjištění v areálu užívá dlužník, ale leasingová společnost L tvrdí, že jsou její. Sepíše i rodinný dům, jehož list vlastnictví uvádí jako vlastníka dlužníkovu manželku. Do formuláře u návěsů neuvede údaj podle písm. k) a L nevyrozumí. U domu nepřiloží list vlastnictví. Druhé vyhotovení soupisu za dva měsíce neobsahuje shrnutí změn.
